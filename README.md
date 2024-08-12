@@ -69,5 +69,5 @@ Feel free to submit issues and pull requests to improve the project. Contributio
 
 ## Contact
 
-For any questions or feedback, please contact [Your Name](mailto:ananya0612de@gmail.com).
+For any questions or feedback, please contact [Contact](mailto:ananya0612de@gmail.com).
 
