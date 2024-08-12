@@ -51,8 +51,7 @@ This project is a web-based Student Records Management System. It allows users t
 
 3. **Deploy the Application:**
 
-    - Copy the project files to your web server’s deployment directory.
-    - Configure the database connection in your JSP files if necessary.
+    - Needs Deployment using Kubernetes.
 
 4. **Access the Application:**
 
@@ -68,11 +67,7 @@ This project is a web-based Student Records Management System. It allows users t
 
 Feel free to submit issues and pull requests to improve the project. Contributions are welcome!
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
-For any questions or feedback, please contact [Your Name](mailto:your-email@example.com).
+For any questions or feedback, please contact [Your Name](mailto:ananya0612de@gmail.com).
 
